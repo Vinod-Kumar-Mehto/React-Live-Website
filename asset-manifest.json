@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Live-Website/static/css/main.c049b315.chunk.css",
+    "main.js": "/React-Live-Website/static/js/main.2a9e40cd.chunk.js",
+    "main.js.map": "/React-Live-Website/static/js/main.2a9e40cd.chunk.js.map",
+    "runtime-main.js": "/React-Live-Website/static/js/runtime-main.af4a3c1b.js",
+    "runtime-main.js.map": "/React-Live-Website/static/js/runtime-main.af4a3c1b.js.map",
+    "static/js/2.82cce34b.chunk.js": "/React-Live-Website/static/js/2.82cce34b.chunk.js",
+    "static/js/2.82cce34b.chunk.js.map": "/React-Live-Website/static/js/2.82cce34b.chunk.js.map",
+    "index.html": "/React-Live-Website/index.html",
+    "static/css/main.c049b315.chunk.css.map": "/React-Live-Website/static/css/main.c049b315.chunk.css.map",
+    "static/js/2.82cce34b.chunk.js.LICENSE.txt": "/React-Live-Website/static/js/2.82cce34b.chunk.js.LICENSE.txt",
+    "static/media/technology.9096d9c0.jpg": "/React-Live-Website/static/media/technology.9096d9c0.jpg",
+    "static/media/technology1.2083b9de.jpg": "/React-Live-Website/static/media/technology1.2083b9de.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af4a3c1b.js",
+    "static/js/2.82cce34b.chunk.js",
+    "static/css/main.c049b315.chunk.css",
+    "static/js/main.2a9e40cd.chunk.js"
+  ]
+}
